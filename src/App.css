@@ -6,9 +6,9 @@
   /* colors */
   --hue: 0;
   --sat: 0%;
-  --title-color: hs1(var(--hue), var(--sat), 20%);
-  --title-color-dark: hs1(var(--hue), var(--sat), 0%);
-  --text-color: hs1(var(--hue), var(--sat), 46%);
+  --title-color: #191919;
+  --title-color-dark: #000;
+  --text-color: #101010;
   --body-color: hs1(var(--hue), var(--sat), 98%);
   --container-color: #fff;
 
