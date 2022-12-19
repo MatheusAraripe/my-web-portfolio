@@ -1,4 +1,8 @@
 import React from 'react'
+import { SiPostgresql,SiPython,SiNodedotjs } from "react-icons/si";
+import { FaGitAlt } from "react-icons/fa";
+import { SiGoland } from "react-icons/si";
+import { GoRuby } from "react-icons/go";
 
 const Backend = () => {
   return (
@@ -9,7 +13,7 @@ const Backend = () => {
       <div className="skills__group">
 
         <div className="skills__data">
-          <i className='bx bx-badge-check' ></i>
+          <GoRuby />
 
           <div>
             <h3 className="skills__name">Rails</h3>
@@ -17,7 +21,7 @@ const Backend = () => {
         </div>
 
         <div className="skills__data">
-          <i className='bx bx-badge-check' ></i>
+          <SiPython />
 
           <div>
             <h3 className="skills__name">Python</h3>
@@ -25,7 +29,7 @@ const Backend = () => {
         </div>
 
         <div className="skills__data">
-          <i className='bx bx-badge-check' ></i>
+          <SiPostgresql />
 
           <div>
             <h3 className="skills__name">Postgresql</h3>
@@ -33,7 +37,7 @@ const Backend = () => {
         </div>
 
         <div className="skills__data">
-          <i className='bx bx-badge-check' ></i>
+          <SiGoland />
 
           <div>
             <h3 className="skills__name">Golang</h3>
@@ -41,7 +45,7 @@ const Backend = () => {
         </div>
 
         <div className="skills__data">
-          <i className='bx bx-badge-check' ></i>
+          <FaGitAlt />
 
           <div>
             <h3 className="skills__name">Git</h3>
@@ -49,7 +53,7 @@ const Backend = () => {
         </div>
 
         <div className="skills__data">
-          <i className='bx bx-badge-check' ></i>
+          <SiNodedotjs />
 
           <div>
             <h3 className="skills__name">Node.js</h3>

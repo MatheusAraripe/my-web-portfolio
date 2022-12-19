@@ -1,4 +1,7 @@
 import React from 'react'
+import { SiWebpack,SiTailwindcss,SiJavascript } from "react-icons/si";
+import { FaReact,FaGithub } from 'react-icons/fa';
+import { DiSass } from "react-icons/di";
 
 const Frontend = () => {
   return (
@@ -9,7 +12,7 @@ const Frontend = () => {
         <div className="skills__group">
 
           <div className="skills__data">
-            <i className='bx bx-badge-check' ></i>
+            <FaReact />
 
             <div>
               <h3 className="skills__name">React</h3>
@@ -17,7 +20,7 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
-            <i className='bx bx-badge-check' ></i>
+            <DiSass />
 
             <div>
               <h3 className="skills__name">Sass</h3>
@@ -25,7 +28,7 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
-            <i className='bx bx-badge-check' ></i>
+            <SiTailwindcss />
 
             <div>
               <h3 className="skills__name">Tailwind</h3>
@@ -33,7 +36,7 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
-            <i className='bx bx-badge-check' ></i>
+            <SiJavascript />
 
             <div>
               <h3 className="skills__name">JavaScript</h3>
@@ -41,7 +44,7 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
-            <i className='bx bx-badge-check' ></i>
+            <SiWebpack />
 
             <div>
               <h3 className="skills__name">Webpack</h3>
@@ -49,7 +52,7 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
-            <i className='bx bx-badge-check' ></i>
+            <FaGithub />
 
             <div>
               <h3 className="skills__name">Github</h3>
