@@ -29,3 +29,10 @@
 .qualification__active{
   color: var(--title-color-dark);
 }
+
+
+.qualification__sections {
+  display: grid;
+  grid-template-columns: 0.5fr;
+  justify-content: center;
+}
