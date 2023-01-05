@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/my-web-portfolio/static/css/main.39c7085a.css",
-    "main.js": "/my-web-portfolio/static/js/main.49ee4aa5.js",
+    "main.js": "/my-web-portfolio/static/js/main.2f0fb8f5.js",
     "static/media/Astronot.gif": "/my-web-portfolio/static/media/Astronot.173edf865f99b093f2da.gif",
     "static/media/talentum-demo.png": "/my-web-portfolio/static/media/talentum-demo.59062c72649ccafc8e92.png",
-    "static/media/matheus_cv.pdf": "/my-web-portfolio/static/media/matheus_cv.87c6e8ac632374b5cd75.pdf",
+    "static/media/matheus_cv.pdf": "/my-web-portfolio/static/media/matheus_cv.fd9324d69941a8e78972.pdf",
     "static/media/mouse_rand_demo.png": "/my-web-portfolio/static/media/mouse_rand_demo.1cdd0bf30eefa33aaf6b.png",
     "static/media/print_api.png": "/my-web-portfolio/static/media/print_api.687ee3753a71a819d6df.png",
     "static/media/cryptopedia_demo.png": "/my-web-portfolio/static/media/cryptopedia_demo.63a1ccaf51d8a92cdb09.png",
     "static/media/profile.jpeg": "/my-web-portfolio/static/media/profile.613b503153cd60ab8cd1.jpeg",
     "index.html": "/my-web-portfolio/index.html",
     "main.39c7085a.css.map": "/my-web-portfolio/static/css/main.39c7085a.css.map",
-    "main.49ee4aa5.js.map": "/my-web-portfolio/static/js/main.49ee4aa5.js.map"
+    "main.2f0fb8f5.js.map": "/my-web-portfolio/static/js/main.2f0fb8f5.js.map"
   },
   "entrypoints": [
     "static/css/main.39c7085a.css",
-    "static/js/main.49ee4aa5.js"
+    "static/js/main.2f0fb8f5.js"
   ]
 }
