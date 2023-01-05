@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import Astronot from "../../assets/Astronot.gif"
-import CV from "../../assets/John-Cv.pdf";
+import CV from "../../assets/matheus_cv.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            I am currently an undergraduate student in Data Science at Fundação Getulio Vargas (FGV) in Rio de Janeiro. <br />
+            I am currently an undergraduate student in applied mathematics at Universidade Federal Fluminense (UFF) in Rio de Janeiro. <br />
             I've always heard that I'm a very communicative person, maybe that's why I work better in a group. I'm also a person who loves to test new things, I consider myself very curious.
           </p>
 
