@@ -34,6 +34,9 @@ export const projectsData = [
 
 export const projectsNav = [
   {
+    name: 'all',
+  },
+  {
     name: 'backend',
   },
   {
