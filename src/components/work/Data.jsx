@@ -10,24 +10,28 @@ export const projectsData = [
     title: 'My own news API',
       image: Api,
       category: "backend",
+      link: "https://rapidapi.com/matheusalc2001/api/crypto-news30",
     id: 0,
   },
   {
     title: 'Talentum',
     image: Talentum,
     category: "fullstack",
+    link:"http://www.talentum.website/",
     id: 1,
   },
   {
     title: 'Mouse Randomization app',
       image: Mouse,
       category: 'fullstack',
+      link:"https://mouse-randomization.herokuapp.com/",
     id: 2,
   },
   {
     title: 'Cryptopedia',
     image: Cryptopedia,
     category: 'frontend',
+    link:"https://the-cryptopedia.netlify.app/",
     id: 3,
   },
 ];
